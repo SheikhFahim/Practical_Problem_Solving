@@ -22,17 +22,17 @@ The application should allow users to do the following:
 2. Clone this repository to your local machine.
 3. Navigate to the project directory in your terminal.
 4. Install Poetry if you don't have it installed:
-    ```
-    curl -sSL https://install.python-poetry.org | python3 -
-    ```
+   ```
+   curl -sSL https://install.python-poetry.org | python3 -
+   ```
 5. Install dependencies
-    ```
-    poetry install
-    ```
-6.  Running the application
-    ```
-    poetry run python main.py
-    ```
+   ```
+   poetry install
+   ```
+6. Running the application
+   ```
+   poetry run python main.py
+   ```
 
 ## Running Tests
 
@@ -41,16 +41,3 @@ To run all the unit tests, use the following command:
 ```
 python -m unittest discover tests
 ```
-
-## Your Task
-
-**Ensure and validate with tests that the app meets the required functionality** and addresses any bugs. Enhance performance and do optimisations to the best of your knowledge, while refactoring the code for better readability and maintainability. Feel free to make necessary assumptions where applicable.
-
-## Submission
-
-Once you are done, please:
-
-1. Push your code to a **public** GitHub repository with at least **read** access
-2. Reply to our email with the repository link to complete your submission within the deadline
-
-Good luck!
